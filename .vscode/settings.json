@@ -1,0 +1,22 @@
+{
+	"eslint.autoFixOnSave": false,
+	"eslint.validate": [
+		{
+			"language": "vue"
+		},
+		{
+			"language": "html"
+		},
+		{
+			"language": "javascript"
+		}
+	],
+	"vetur.format.options.tabSize": 4,
+	"vetur.format.options.useTabs": true,
+	"vetur.format.defaultFormatterOptions": {
+		"prettier": {
+			"semi": false,
+			"singleQuote": true
+		}
+	}
+}
